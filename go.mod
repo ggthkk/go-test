@@ -5,6 +5,7 @@ go 1.22.0
 require (
 	github.com/fatih/color v1.16.0
 	github.com/gin-gonic/gin v1.9.1
+	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
 	github.com/joho/godotenv v1.5.1
 	go.mongodb.org/mongo-driver v1.14.0
 )
